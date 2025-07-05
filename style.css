@@ -116,6 +116,7 @@ nav {
 }
 
 #hero-shape {
+    margin-top: 4vw;
     position: absolute;
     width: 46vw;
     height: 36vw;
